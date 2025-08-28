@@ -34,7 +34,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7B112BFC-658D-4D51-B38A-00053D61810E}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LabVIEW TDMS Asynchronous Disk IO Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/LabVIEW TDMS Asynchronous Disk IO Example EXE/LabVIEW TDMS Asynchronous Disk IO Example.exe</Property>
@@ -106,7 +106,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{467E5E7F-A236-4936-8882-E7E500655D58}</Property>
 				<Property Name="INST_installerName" Type="Str">TDMS Disk IO Installer.exe</Property>
 				<Property Name="INST_productName" Type="Str">LabVIEW TDMS Asynchronous Disk IO Example</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.5</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
 				<Property Name="InstSpecBitness" Type="Str">64-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">25328002</Property>
 				<Property Name="MSI_arpCompany" Type="Str">G2CPU</Property>
